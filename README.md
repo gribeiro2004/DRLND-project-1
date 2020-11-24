@@ -8,7 +8,7 @@ For this project, you will train an agent to navigate (and collect bananas!) in 
 [![](http://img.youtube.com/vi/ZyI_8GETSLk/0.jpg)](http://www.youtube.com/watch?v=ZyI_8GETSLk "Trained agent")
 
 
-A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
+A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas. You can click in the image above to see a trained agent in action!!
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
 
