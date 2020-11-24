@@ -41,17 +41,17 @@ The task is episodic, and in order to solve the environment, your agent must get
         scipy\
         ipykernel
 
-3. Perfom a basic instalation of the gym evironment
+3. Perfom a basic instalation of the gym evironment\
         pip install gym
 
-4. Install the classic control environment group
+4. Install the classic control environment group\
         conda install -c conda-forge gym-classic_control
 
-5. Install the box2d environment group
+5. Install the box2d environment group\
         conda install -c conda-forge box2d-py
 
-6. Install unityagents and mlagents via pip
-        pip install unityagents==0.4.0
+6. Install unityagents and mlagents via pip\
+        pip install unityagents==0.4.0\
         pip install mlagents==0.4
         
 
