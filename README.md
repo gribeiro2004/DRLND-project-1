@@ -25,7 +25,7 @@ The task is episodic, and in order to solve the environment, your agent must get
         conda create --name drlnd python=3.6
         conda activate drlnd
 
-2. Install the following list of requirements via pip
+2. Install the following list of requirements via pip\
         tensorflow==1.7.1\
         Pillow>=4.2.1\
         matplotlib\
